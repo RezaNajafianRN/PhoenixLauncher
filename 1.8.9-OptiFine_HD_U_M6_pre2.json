@@ -8,9 +8,23 @@
   "assets": "legacy",
   "libraries": [
     {
+      "downloads": {
+        "artifact": {
+          "path": "optifine/OptiFine/OptiFine-1.8.9_HD_U_M6_pre2.jar",
+          "size": 2366273,
+          "url": "https://github.com/RezaNajafianRN/PhoenixLauncher/raw/main/OptiFine-1.8.9_HD_U_M6_pre2.jar"
+        }
+      },
       "name": "optifine:OptiFine:1.8.9_HD_U_M6_pre2"
     },
     {
+      "downloads": {
+        "artifact": {
+          "path": "optifine/launchwrapper-of/launchwrapper-of-2.2.jar",
+          "size": 15900,
+          "url": "https://github.com/RezaNajafianRN/PhoenixLauncher/raw/main/launchwrapper-of-2.2.jar"
+        }
+      },
       "name": "optifine:launchwrapper-of:2.2"
     }
   ]
