@@ -4,7 +4,7 @@
   "time": "2021-06-13T14:43:12+04:30",
   "releaseTime": "2021-06-13T14:43:12+04:30",
   "type": "release",
-  "minecraftArguments": "",
+  "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "minimumLauncherVersion": 14,
   "assets": "1.8",
